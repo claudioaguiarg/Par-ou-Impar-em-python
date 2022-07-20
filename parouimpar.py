@@ -29,6 +29,7 @@ while True:
             print('Vamos mais uma...')
         else:
             resultado = 'PERDEU'
+            print(f'Você jogou {n} e o computador {vm}. Total de {soma} Deu {jogo}')
             break
     print(f'Você jogou {n} e o computador {vm}. Total de {soma} Deu {jogo}')
     sleep(1)
