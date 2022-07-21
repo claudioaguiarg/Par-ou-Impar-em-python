@@ -4,6 +4,8 @@ from time import sleep
 print('=-='*10)
 print('VAMOS JOGAR PAR OU IMPAR')
 print('=-='*10)
+sleep(1)
+nome = input('Meu nome é Charlie, qual é o seu nome?')
 vitorias = 0
 
 while True:
