@@ -6,6 +6,7 @@ print('VAMOS JOGAR PAR OU IMPAR')
 print('=-='*10)
 sleep(1)
 nome = input('Meu nome é Charlie, qual é o seu nome?')
+print(f'Charlie: Olá {nome}, vamos começar o jogo.')
 vitorias = 0
 
 while True:
