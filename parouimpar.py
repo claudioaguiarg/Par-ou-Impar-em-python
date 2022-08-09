@@ -40,4 +40,3 @@ while True:
     sleep(1)
 
 print(f'GAME OVER! Você venceu {vitorias} vezes')
-
